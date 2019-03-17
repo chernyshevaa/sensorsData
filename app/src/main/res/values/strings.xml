@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sensors Data</string>
+
+    <string name="delay">Delay:</string>
+    <string name="delayNormal">Normal</string>
+    <string name="delayUI">UI</string>
+    <string name="delayGame">Game</string>
+    <string name="delayFastest">Fastest</string>
+
+    <string name="buttonShowSensors">Show Sensors</string>
+    <string name="buttonStart">Start</string>
+</resources>
